@@ -5,7 +5,9 @@
 
 using namespace std;
 
+//Test kode for opgave 1
 int opg1(){
+    // Test kode for del 1
     std::cout << "--------------------" << std::endl;
     std::cout << "-- Test Opgave 1a --" << std::endl;
     std::cout << "--------------------" << std::endl;
@@ -30,6 +32,7 @@ int opg1(){
     std::cout << p6.getName() << " " << p6.getPrice() << std::endl;
     std::cout << std::endl;
 
+    // Test kode for del 2
     std::cout << "--------------------" << std::endl;
     std::cout << "-- Test Opgave 1b --" << std::endl;
     std::cout << "--------------------" << std::endl;
@@ -52,6 +55,7 @@ int opg1(){
 
 }
 
+// Test kode for opgave 2
 int opg2(){
 
     A a;
@@ -86,7 +90,7 @@ int opg2(){
 }
 int main()
 {
-
-    opg2();
+    //opg1();
+    //opg2();
     return 0;
 }
