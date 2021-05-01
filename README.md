@@ -1,5 +1,5 @@
 
-#Eksamensopgave i RD2-SWC13. august 2019
+# Eksamensopgave i RD2-SWC13. august 2019
 
 Alle hjælpemidler, som ikke kræver brug af internet, er tilladt. Aflevering   skal   afleveres   én   PDF-fil   med   opgavebesvarelsen   i   C++-delen   og   én   PDF-fil   med   opgavebesvarelsen  i  Softwareudviklingsdelen.  Desuden  skal  al  kildekode  afleveres  i  en  zip-fil. En komplet aflevering indeholder altså 3 filer.Til hver C++ opgave er der en test-kode, som skal eksekveresog et screendump skal indsættes i afleveringen.  Hvis  programmet  ikke  kan  compile,  så  indsættes  i  stedet  fejlmeddelelsen  fra compileren. Enhver form for kopier/indsæt (copy/paste) fra tidligere opgaver anses som eksamenssnyd. Testkode fra denne eksamensopgave må dog gerne kopieres ind. Opgavesættet  består  af  7  sider,  1  forside,  5  sider  med  C++  opgaver  og  1  side  med  software-udviklingsopgaven.
 
